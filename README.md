@@ -94,4 +94,11 @@ The web-based dashboard allows admins to:
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 📜 License
+This project is for **portfolio demonstration only**. Commercial use is not permitted without permission.
+
+---
+
