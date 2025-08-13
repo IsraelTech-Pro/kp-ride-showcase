@@ -25,7 +25,7 @@ The Rider app allows users to:
 
 | Looking for Driver | Pickup & Dropoff | My Rides 1 | My Rides 2 |
 |--------------------|------------------|------------|------------|
-| ![Rider Looking for Driver](assets/rider-looking-for-driver-page.png) | ![Rider Pickup Dropoff](assets/rider-pickup-dropoff-page.png) | ![Rider My Rides 1](assets/rider-myRides1.png) | ![Rider My Rides 2](assets/rider-myRides2.png) |
+| ![Rider Looking for Driver](assets/rider%20looking-for-driver-page.png) | ![Rider Pickup Dropoff](assets/rider-pickup-dropoff-page.png) | ![Rider My Rides 1](assets/rider-myRides1.png) | ![Rider My Rides 2](assets/rider-myRides2.png) |
 
 | Profile | About |
 |---------|-------|
